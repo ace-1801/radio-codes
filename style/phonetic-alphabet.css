@@ -1,0 +1,10 @@
+/* Ponetic Alphabet */
+ul#ph-alphabet {
+    background: #c4488c;
+    padding: 20px;
+}
+
+ul#ph-alphabet li {
+    background: #eedbdb;
+    margin: 5px;
+}

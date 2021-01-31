@@ -1,0 +1,10 @@
+/* Q Code css*/
+ul#q-code {
+    background: #3399ff;
+    padding: 20px;
+}
+
+ul#q-code li {
+    background: #cce5ff;
+    margin: 5px;
+}

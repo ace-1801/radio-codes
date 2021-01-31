@@ -1,0 +1,10 @@
+/* 10 radio code css */
+ul#ten-radio-code {
+    background: #9c8b3c;
+    padding: 20px;
+}
+
+ul#ten-radio-code li {
+    background: #c4c594;
+    margin: 5px;
+}

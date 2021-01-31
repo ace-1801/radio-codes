@@ -1,0 +1,10 @@
+/* 10 Code css */
+ul#ten-code {
+    background: #00cc00;
+    padding: 20px;
+}
+
+ul#ten-code li {
+    background: #b3e5b3;
+    margin: 5px;
+}
